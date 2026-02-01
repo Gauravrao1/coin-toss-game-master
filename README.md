@@ -34,10 +34,6 @@ Displays Heads if 0, and Tails if 1
 
 Updates the DOM to show result image and possibly count statistics
 
-🛠️ Installation
-📥 Clone the repository
-git clone https://github.com/Gauravrao1/coin-toss-game-master.git
-
 📂 Open in browser
 
 Open the folder
